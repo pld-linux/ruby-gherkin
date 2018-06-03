@@ -2,7 +2,7 @@
 Summary:	Fast Gherkin lexer/parser
 Name:		ruby-%{pkgname}
 Version:	2.11.6
-Release:	5
+Release:	6
 License:	MIT
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
